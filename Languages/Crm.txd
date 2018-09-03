@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- TxTranslation dictionary file. Use TxEditor to edit this file. http://unclassified.software/txtranslation -->
+<translation xml:space="preserve">
+	<culture name="ar">
+		<text key="Adresse">العناوين</text>
+		<text key="Adresse par default">العنوان الرئيسي</text>
+		<text key="Adresses">العناوين</text>
+		<text key="Bon de livraison">مذكرة التسليم</text>
+		<text key="Bon de reception">مذكرة إستلام</text>
+		<text key="Client">الزبائن</text>
+		<text key="Clientèle">إدارة العملاء CRM</text>
+		<text key="Clients opérant">الزبائن</text>
+		<text key="Commande d'achat">أمر بالشراء</text>
+		<text key="Commandes de ventes">أمر بالبيع</text>
+		<text key="COMPTABILITÉ">حسابات</text>
+		<text key="Compte débiteur par default">حساب الخصم</text>
+		<text key="Contact principal du client">العميل الرئيسي</text>
+		<text key="Contacts">معلومات العملاء</text>
+		<text key="Coordonées">معلومات الإتصال</text>
+		<text key="Designation">التسمية</text>
+		<text key="Détails du client">معلومات إضافية</text>
+		<text key="Devis">التسعير</text>
+		<text key="Domaine d'activité">مجال النشاط</text>
+		<text key="Écritures paiement">إدخالات الدفع</text>
+		<text key="Email">إيميل</text>
+		<text key="Factures d'achat">فاتورة شراء</text>
+		<text key="Factures de ventes">فاتورة البيع</text>
+		<text key="Groupe client">مجموعة العملاء</text>
+		<text key="Groupe Client">شرائح العملاء</text>
+		<text key="Identifiant / Numéro interne">الترقيم الداخلي / التعريف</text>
+		<text key="Image">صورة</text>
+		<text key="Infos compte">معلومات الحسابات</text>
+		<text key="Libellé">الإسم</text>
+		<text key="Liste des prix">قائمة الأسعار</text>
+		<text key="Mobile">الهاتف النقال</text>
+		<text key="N° Fax">الفاكس</text>
+		<text key="N° RC">رقم السجل التجاري</text>
+		<text key="N° Téléphone">رقم الهاتف الثابت</text>
+		<text key="NIF">رقم التعريف الضريبي</text>
+		<text key="Nom complet">الإسم كامل</text>
+		<text key="Paramétres Clientèle">إعدادات</text>
+		<text key="Projets">مشاريع</text>
+		<text key="Région">الإقليم</text>
+		<text key="Réservations">الحجز</text>
+		<text key="Secteurs d’activité">مجال النشاط</text>
+		<text key="Sexe">الجنس</text>
+		<text key="Site web">الموقع الإلكتروني</text>
+		<text key="Type client">نوع الزبون</text>
+	</culture>
+	<culture name="en">
+		<text key="Adresse">Addresses</text>
+		<text key="Adresse par default">Main address</text>
+		<text key="Adresses">Addresses</text>
+		<text key="Bon de livraison" acceptmissing="true">Delivery note</text>
+		<text key="Bon de reception">Receipt note</text>
+		<text key="Client">Customers</text>
+		<text key="Clientèle">CRM</text>
+		<text key="Clients opérant">Customers</text>
+		<text key="Commande d'achat">Purchase order</text>
+		<text key="Commandes de ventes">Sales order</text>
+		<text key="COMPTABILITÉ">Accounting</text>
+		<text key="Compte débiteur par default">Default debit account</text>
+		<text key="Contact principal du client">Customer's main contact</text>
+		<text key="Contacts">Contacts</text>
+		<text key="Coordonées">Contact information</text>
+		<text key="Designation">Name</text>
+		<text key="Détails du client">Customer Details</text>
+		<text key="Devis">Quotation</text>
+		<text key="Domaine d'activité">Field of activity</text>
+		<text key="Écritures paiement">Payment Entry</text>
+		<text key="Email">Email</text>
+		<text key="Factures d'achat">Purchase invoice</text>
+		<text key="Factures de ventes">Sales invoice</text>
+		<text key="Groupe client">Customer group</text>
+		<text key="Groupe Client" acceptmissing="true">Customer group</text>
+		<text key="Identifiant / Numéro interne">Reference Code</text>
+		<text key="Image">Picture</text>
+		<text key="Infos compte">Accounts infos</text>
+		<text key="Libellé">Name</text>
+		<text key="Liste des prix">Price list</text>
+		<text key="Mobile">Mobile</text>
+		<text key="N° Fax">Fax</text>
+		<text key="N° RC">Business register number</text>
+		<text key="N° Téléphone">Phone number</text>
+		<text key="NIF">Tax identification number</text>
+		<text key="Nom complet">Full name</text>
+		<text key="Paramétres Clientèle">Customer Settings</text>
+		<text key="Projets">Projects</text>
+		<text key="Région">Region</text>
+		<text key="Réservations">Reservations</text>
+		<text key="Secteurs d’activité">Activity field</text>
+		<text key="Sexe">Gender</text>
+		<text key="Site web">Website</text>
+		<text key="Tx:date.month day">d/M</text>
+		<text key="Tx:date.month day.abbr">d MMM</text>
+		<text key="Tx:date.month day.long">d MMMM</text>
+		<text key="Tx:date.month day.tab">dd/MM</text>
+		<text key="Tx:date.year month">M/yyyy</text>
+		<text key="Tx:date.year month.abbr">MMM yyyy</text>
+		<text key="Tx:date.year month.tab">MM/yyyy</text>
+		<text key="Tx:date.year month day">d/M/yyyy</text>
+		<text key="Tx:date.year month day.abbr">d MMM yyyy</text>
+		<text key="Tx:date.year month day.long">d MMMM yyyy</text>
+		<text key="Tx:date.year month day.tab">dd/MM/yyyy</text>
+		<text key="Tx:enum.and.combiner">, </text>
+		<text key="Tx:enum.and.last combiner"> and </text>
+		<text key="Tx:enum.or.combiner">, </text>
+		<text key="Tx:enum.or.last combiner"> or </text>
+		<text key="Tx:number.group separator"> </text>
+		<text key="Tx:number.group separator threshold">1</text>
+		<text key="Tx:number.negative">−</text>
+		<text key="Tx:number.ordinal">{#}th</text>
+		<text key="Tx:number.ordinal" count="1" mod="10">{#}st</text>
+		<text key="Tx:number.ordinal" count="2" mod="10">{#}nd</text>
+		<text key="Tx:number.ordinal" count="3" mod="10">{#}rd</text>
+		<text key="Tx:number.ordinal" count="11" mod="100">{#}th</text>
+		<text key="Tx:number.ordinal" count="12" mod="100">{#}th</text>
+		<text key="Tx:number.ordinal" count="13" mod="100">{#}th</text>
+		<text key="Tx:number.unit separator"> </text>
+		<text key="Tx:quote begin">“</text>
+		<text key="Tx:quote end">”</text>
+		<text key="Tx:quote nested begin">‘</text>
+		<text key="Tx:quote nested end">’</text>
+		<text key="Tx:time.am">am</text>
+		<text key="Tx:time.hour">h tt</text>
+		<text key="Tx:time.hour.tab">hh tt</text>
+		<text key="Tx:time.hour minute">h:mm tt</text>
+		<text key="Tx:time.hour minute.tab">HH:mm</text>
+		<text key="Tx:time.hour minute second">h:mm:ss tt</text>
+		<text key="Tx:time.hour minute second.tab">HH:mm:ss</text>
+		<text key="Tx:time.hour minute second ms">h:mm:ss.fff tt</text>
+		<text key="Tx:time.hour minute second ms.tab">HH:mm:ss.fff</text>
+		<text key="Tx:time.never">never</text>
+		<text key="Tx:time.now">now</text>
+		<text key="Tx:time.pm">pm</text>
+		<text key="Tx:time.relative">in {interval}</text>
+		<text key="Tx:time.relative.days">{#} days</text>
+		<text key="Tx:time.relative.days" count="1">{#} day</text>
+		<text key="Tx:time.relative.days.single">{#} days</text>
+		<text key="Tx:time.relative.days.single" count="1">a day</text>
+		<text key="Tx:time.relative.hours">{#} hours</text>
+		<text key="Tx:time.relative.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative.hours.single">{#} hours</text>
+		<text key="Tx:time.relative.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative.minutes">{#} minutes</text>
+		<text key="Tx:time.relative.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative.months">{#} months</text>
+		<text key="Tx:time.relative.months" count="1">{#} month</text>
+		<text key="Tx:time.relative.months.single">{#} months</text>
+		<text key="Tx:time.relative.months.single" count="1">a month</text>
+		<text key="Tx:time.relative.seconds">{#} seconds</text>
+		<text key="Tx:time.relative.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative.years">{#} years</text>
+		<text key="Tx:time.relative.years" count="1">{#} year</text>
+		<text key="Tx:time.relative.years.single">{#} years</text>
+		<text key="Tx:time.relative.years.single" count="1">a year</text>
+		<text key="Tx:time.relative neg">{interval} ago</text>
+		<text key="Tx:time.relative neg.days">{#} days</text>
+		<text key="Tx:time.relative neg.days" count="1">{#} day</text>
+		<text key="Tx:time.relative neg.days.single">{#} days</text>
+		<text key="Tx:time.relative neg.days.single" count="1">a day</text>
+		<text key="Tx:time.relative neg.hours">{#} hours</text>
+		<text key="Tx:time.relative neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative neg.hours.single">{#} hours</text>
+		<text key="Tx:time.relative neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative neg.minutes">{#} minutes</text>
+		<text key="Tx:time.relative neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative neg.months">{#} months</text>
+		<text key="Tx:time.relative neg.months" count="1">{#} month</text>
+		<text key="Tx:time.relative neg.months.single">{#} months</text>
+		<text key="Tx:time.relative neg.months.single" count="1">a month</text>
+		<text key="Tx:time.relative neg.seconds">{#} seconds</text>
+		<text key="Tx:time.relative neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative neg.years">{#} years</text>
+		<text key="Tx:time.relative neg.years" count="1">{#} year</text>
+		<text key="Tx:time.relative neg.years.single">{#} years</text>
+		<text key="Tx:time.relative neg.years.single" count="1">a year</text>
+		<text key="Tx:time.relative span">{interval} later</text>
+		<text key="Tx:time.relative span.days">{#} days</text>
+		<text key="Tx:time.relative span.days" count="1">{#} day</text>
+		<text key="Tx:time.relative span.days.single">{#} days</text>
+		<text key="Tx:time.relative span.days.single" count="1">a day</text>
+		<text key="Tx:time.relative span.hours">{#} hours</text>
+		<text key="Tx:time.relative span.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative span.hours.single">{#} hours</text>
+		<text key="Tx:time.relative span.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative span.minutes">{#} minutes</text>
+		<text key="Tx:time.relative span.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative span.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative span.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative span.months">{#} months</text>
+		<text key="Tx:time.relative span.months" count="1">{#} month</text>
+		<text key="Tx:time.relative span.months.single">{#} months</text>
+		<text key="Tx:time.relative span.months.single" count="1">a month</text>
+		<text key="Tx:time.relative span.seconds">{#} seconds</text>
+		<text key="Tx:time.relative span.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative span.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative span.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative span.years">{#} years</text>
+		<text key="Tx:time.relative span.years" count="1">{#} year</text>
+		<text key="Tx:time.relative span.years.single">{#} years</text>
+		<text key="Tx:time.relative span.years.single" count="1">a year</text>
+		<text key="Tx:time.relative span neg">{interval} before</text>
+		<text key="Tx:time.relative span neg.days">{#} days</text>
+		<text key="Tx:time.relative span neg.days" count="1">{#} day</text>
+		<text key="Tx:time.relative span neg.days.single">{#} days</text>
+		<text key="Tx:time.relative span neg.days.single" count="1">a day</text>
+		<text key="Tx:time.relative span neg.hours">{#} hours</text>
+		<text key="Tx:time.relative span neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.relative span neg.hours.single">{#} hours</text>
+		<text key="Tx:time.relative span neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.relative span neg.minutes">{#} minutes</text>
+		<text key="Tx:time.relative span neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.relative span neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.relative span neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.relative span neg.months">{#} months</text>
+		<text key="Tx:time.relative span neg.months" count="1">{#} month</text>
+		<text key="Tx:time.relative span neg.months.single">{#} months</text>
+		<text key="Tx:time.relative span neg.months.single" count="1">a month</text>
+		<text key="Tx:time.relative span neg.seconds">{#} seconds</text>
+		<text key="Tx:time.relative span neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.relative span neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.relative span neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.relative span neg.years">{#} years</text>
+		<text key="Tx:time.relative span neg.years" count="1">{#} year</text>
+		<text key="Tx:time.relative span neg.years.single">{#} years</text>
+		<text key="Tx:time.relative span neg.years.single" count="1">a year</text>
+		<text key="Tx:time.span">for {interval}</text>
+		<text key="Tx:time.span.days">{#} days</text>
+		<text key="Tx:time.span.days" count="1">{#} day</text>
+		<text key="Tx:time.span.days.single">{#} days</text>
+		<text key="Tx:time.span.days.single" count="1">a day</text>
+		<text key="Tx:time.span.hours">{#} hours</text>
+		<text key="Tx:time.span.hours" count="1">{#} hour</text>
+		<text key="Tx:time.span.hours.single">{#} hours</text>
+		<text key="Tx:time.span.hours.single" count="1">an hour</text>
+		<text key="Tx:time.span.minutes">{#} minutes</text>
+		<text key="Tx:time.span.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.span.minutes.single">{#} minutes</text>
+		<text key="Tx:time.span.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.span.months">{#} months</text>
+		<text key="Tx:time.span.months" count="1">{#} month</text>
+		<text key="Tx:time.span.months.single">{#} months</text>
+		<text key="Tx:time.span.months.single" count="1">a month</text>
+		<text key="Tx:time.span.seconds">{#} seconds</text>
+		<text key="Tx:time.span.seconds" count="1">{#} second</text>
+		<text key="Tx:time.span.seconds.single">{#} seconds</text>
+		<text key="Tx:time.span.seconds.single" count="1">a second</text>
+		<text key="Tx:time.span.years">{#} years</text>
+		<text key="Tx:time.span.years" count="1">{#} year</text>
+		<text key="Tx:time.span.years.single">{#} years</text>
+		<text key="Tx:time.span.years.single" count="1">a year</text>
+		<text key="Tx:time.span neg">for {interval}</text>
+		<text key="Tx:time.span neg.days">{#} days</text>
+		<text key="Tx:time.span neg.days" count="1">{#} day</text>
+		<text key="Tx:time.span neg.days.single">{#} days</text>
+		<text key="Tx:time.span neg.days.single" count="1">a day</text>
+		<text key="Tx:time.span neg.hours">{#} hours</text>
+		<text key="Tx:time.span neg.hours" count="1">{#} hour</text>
+		<text key="Tx:time.span neg.hours.single">{#} hours</text>
+		<text key="Tx:time.span neg.hours.single" count="1">an hour</text>
+		<text key="Tx:time.span neg.minutes">{#} minutes</text>
+		<text key="Tx:time.span neg.minutes" count="1">{#} minute</text>
+		<text key="Tx:time.span neg.minutes.single">{#} minutes</text>
+		<text key="Tx:time.span neg.minutes.single" count="1">a minute</text>
+		<text key="Tx:time.span neg.months">{#} months</text>
+		<text key="Tx:time.span neg.months" count="1">{#} month</text>
+		<text key="Tx:time.span neg.months.single">{#} months</text>
+		<text key="Tx:time.span neg.months.single" count="1">a month</text>
+		<text key="Tx:time.span neg.seconds">{#} seconds</text>
+		<text key="Tx:time.span neg.seconds" count="1">{#} second</text>
+		<text key="Tx:time.span neg.seconds.single">{#} seconds</text>
+		<text key="Tx:time.span neg.seconds.single" count="1">a second</text>
+		<text key="Tx:time.span neg.years">{#} years</text>
+		<text key="Tx:time.span neg.years" count="1">{#} year</text>
+		<text key="Tx:time.span neg.years.single">{#} years</text>
+		<text key="Tx:time.span neg.years.single" count="1">a year</text>
+		<text key="Type client">Customer type</text>
+	</culture>
+	<culture name="fr" primary="true">
+		<text key="Adresse">Adresses</text>
+		<text key="Adresse par default">Adresse principale</text>
+		<text key="Adresses">Adresses</text>
+		<text key="Bon de livraison">Bon de livraison</text>
+		<text key="Bon de reception">Bon de réception</text>
+		<text key="Client">Clients</text>
+		<text key="Clientèle">Clientèle</text>
+		<text key="Clients opérant">Clients opérant</text>
+		<text key="Commande d'achat">Commande d'achat</text>
+		<text key="Commandes de ventes">Commandes de ventes</text>
+		<text key="COMPTABILITÉ">Comptabilité</text>
+		<text key="Compte débiteur par default">Compte débiteur par défaut</text>
+		<text key="Contact principal du client">Contact principal du client</text>
+		<text key="Contacts">Contacts</text>
+		<text key="Coordonées">Coordonnées</text>
+		<text key="Designation">Designation</text>
+		<text key="Détails du client">Détails du client</text>
+		<text key="Devis">Devis</text>
+		<text key="Domaine d'activité">Domaine d'activité</text>
+		<text key="Écritures paiement">Écritures paiement</text>
+		<text key="Email">Email</text>
+		<text key="Factures d'achat">Factures d'achat</text>
+		<text key="Factures de ventes">Factures de ventes</text>
+		<text key="Groupe client">Groupe client</text>
+		<text key="Groupe Client">Groupe Client</text>
+		<text key="Identifiant / Numéro interne">Identifiant / Numéro interne</text>
+		<text key="Image">Image</text>
+		<text key="Infos compte">Infos compte</text>
+		<text key="Libellé">Libellé</text>
+		<text key="Liste des prix">Liste des prix</text>
+		<text key="Mobile">Mobile</text>
+		<text key="N° Fax">N° Fax</text>
+		<text key="N° RC">Numéro registre de commerce</text>
+		<text key="N° Téléphone">N° Téléphone</text>
+		<text key="NIF">Identification fiscale</text>
+		<text key="Nom complet">Nom complet</text>
+		<text key="Paramétres Clientèle">Paramétres Clientèle</text>
+		<text key="Projets">Projets</text>
+		<text key="Région">Région</text>
+		<text key="Réservations">Réservations</text>
+		<text key="Secteurs d’activité">Secteurs d'activité</text>
+		<text key="Sexe">Sexe</text>
+		<text key="Site web">Site web</text>
+		<text key="Tx:byte unit" comment="Default: B">o</text>
+		<text key="Tx:colon" comment="Can be used to insert additional spacing like for French."> :</text>
+		<text key="Tx:date.day" comment="Default: %d" />
+		<text key="Tx:date.day.tab" comment="Default: dd" />
+		<text key="Tx:date.dow with date" comment="Combines a day of week with a date. Default: {dow}, {date}">{dow} {date}</text>
+		<text key="Tx:date.month.abbr" comment="Default: MMM" />
+		<text key="Tx:date.month.long" comment="Default: MMMM" />
+		<text key="Tx:date.month day" comment="Default: MM-dd">d/M</text>
+		<text key="Tx:date.month day.abbr" comment="Default: d MMM">d MMM</text>
+		<text key="Tx:date.month day.long" comment="Default: M">d MMMM</text>
+		<text key="Tx:date.month day.tab" comment="Default: MM-dd">dd/MM</text>
+		<text key="Tx:date.year" comment="Default: yyyy" />
+		<text key="Tx:date.year month" comment="Default: yyyy-MM">M/yyyy</text>
+		<text key="Tx:date.year month.abbr" comment="Default: MMM yyyy">MMM yyyy</text>
+		<text key="Tx:date.year month.long" comment="Default: Y" />
+		<text key="Tx:date.year month.tab" comment="Default: yyyy-MM">MM/yyyy</text>
+		<text key="Tx:date.year month day" comment="Default: d">d/M/yyyy</text>
+		<text key="Tx:date.year month day.abbr" comment="Default: d MMM yyyy">d MMM yyyy</text>
+		<text key="Tx:date.year month day.long" comment="Default: d MMMM yyyy">d MMMM yyyy</text>
+		<text key="Tx:date.year month day.tab" comment="Default: d">dd/MM/yyyy</text>
+		<text key="Tx:enum.and.combiner">, </text>
+		<text key="Tx:enum.and.last combiner"> et </text>
+		<text key="Tx:enum.or.combiner">, </text>
+		<text key="Tx:enum.or.last combiner"> ou </text>
+		<text key="Tx:number.group separator" comment="Number thousands group separator. International recommendation is a narrow non-breaking space."> </text>
+		<text key="Tx:number.group separator threshold" comment="The minimum value for thousands group separators to be used at all.">1</text>
+		<text key="Tx:number.negative" comment="Negative number prefix.">−</text>
+		<text key="Tx:number.ordinal" comment="Ordinal numbers, male or default.">{#}ᵉ</text>
+		<text key="Tx:number.ordinal" count="1">{#}ᵉʳ</text>
+		<text key="Tx:number.ordinal f" comment="Ordinal numbers, female if special." />
+		<text key="Tx:number.ordinal f" count="1">{#}ʳᵉ</text>
+		<text key="Tx:number.unit separator" comment="Separator between a number and its unit. Should be a non-breaking space. Should only be used for relatively short unit symbols, not longer names."> </text>
+		<text key="Tx:quote begin" comment="Opening regular quotation mark.">« </text>
+		<text key="Tx:quote end" comment="Closing regular quotation mark."> »</text>
+		<text key="Tx:quote nested begin" comment="Opening nested/secondary quotation mark.">“</text>
+		<text key="Tx:quote nested end" comment="Closing nested/secondary quotation mark.">”</text>
+		<text key="Tx:time.am" comment="a.m. (ante meridiem), used for 12-hour clocks." />
+		<text key="Tx:time.hour" comment="Default: %H">H "h"</text>
+		<text key="Tx:time.hour.tab" comment="Default: HH">HH "h"</text>
+		<text key="Tx:time.hour minute" comment="Default: t">H "h" mm</text>
+		<text key="Tx:time.hour minute.tab" comment="Default: t">HH "h" mm</text>
+		<text key="Tx:time.hour minute second" comment="Default: T" />
+		<text key="Tx:time.hour minute second.tab" comment="Default: T">HH:mm:ss</text>
+		<text key="Tx:time.hour minute second ms" comment="Default: H:mm:ss.fff" />
+		<text key="Tx:time.hour minute second ms.tab" comment="Default: HH:mm:ss.fff" />
+		<text key="Tx:time.never" comment="No point in time.">jamais</text>
+		<text key="Tx:time.now" comment="At the current time.">maintenant</text>
+		<text key="Tx:time.pm" comment="p.m. (post meridiem), used for 12-hour clocks." />
+		<text key="Tx:time.relative" comment="A point in time in the future.">en {interval}</text>
+		<text key="Tx:time.relative neg" comment="A point in time in the past.">il y a {interval}</text>
+		<text key="Tx:time.relative span" comment="A point in time after another unspecified time.">{interval} plus tard</text>
+		<text key="Tx:time.relative span neg" comment="A point in time before another unspecified time.">{interval} avant</text>
+		<text key="Tx:time.span" comment="A time span from now on into the future or based at an unspecified time.">pour {interval}</text>
+		<text key="Tx:time.span neg" comment="A time span from the past until now.">depuis {interval}</text>
+		<text key="Type client">Type client</text>
+	</culture>
+</translation>

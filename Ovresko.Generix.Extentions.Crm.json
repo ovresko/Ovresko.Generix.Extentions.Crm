@@ -1,0 +1,11 @@
+﻿{
+  "Name": "CRM Plugin",
+  "Release": "aout 2018",
+  "Version": "1.0",
+  "Link": "",
+  "User": "",
+  "Key": "",
+  "HooksClass": "",
+  "Dependencies": [
+  ]
+}
